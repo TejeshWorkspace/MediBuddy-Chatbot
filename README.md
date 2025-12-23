@@ -1,6 +1,4 @@
 # MediBuddy-Chatbot
-# MediBuddy Healthcare Chatbot
-
 A conversational AI chatbot I built using Kore.ai platform to help patients book medical appointments and get healthcare information without waiting on hold or dealing with complex forms.
 
 ## What This Does
